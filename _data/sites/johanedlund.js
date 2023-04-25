@@ -2,7 +2,7 @@ module.exports = {
 	name: "johanedlund.se",
 	description: "Personal website",
 	options: {
-		frequency: 60 * 1, // 1 hour
+		frequency: 60 * 2, // 2 hour
 		freshChrome: "site"
 	},
 	urls: [
