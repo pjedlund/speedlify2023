@@ -6,6 +6,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.johanedlund.se/"
+		"https://cv.johanedlund.se/"
 	]
 };
