@@ -1,6 +1,6 @@
 module.exports = {
 	name: "telavox.com",
-	description: "Commercial website",
+	description: "telavox.com",
 	options: {
 		frequency: 60 * 2, // 2 hour
 		freshChrome: "site"
